@@ -21,4 +21,4 @@ Roll into small balls, and press fork into top to flatten and shape
 
 Bake at 180°C for 15 minutes. Cookies will be golden, but still soft, and will harden on cooling
  
-![Almond Biscuit](media/almond_biscuit.md)
+![Almond Biscuit](media/almond_biscuit.jpg)
