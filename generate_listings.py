@@ -13,13 +13,13 @@ README = "README.md"
 listing = []
 MAGIC_LINE = "[//]: <> (generated)\n"
 
-for f in glob.glob("*.md"):
+for f in glob.glob("recipes/*.md"):
     if f != README:
         with open(f) as fc:
             h = fc.readline()
             h1 = h.split("#")[1].strip()
 
-        listing.append(" * [%s](%s)\n" % (h1, f))
+        listing.append(f" * [{h1}]({f})\n")
 
 data = []
 with open(README) as f:

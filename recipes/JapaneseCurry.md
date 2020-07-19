@@ -29,4 +29,4 @@ Turn heat back on low, and cook for a few minutes until gently simmering.
 
 Serve with rice and pickles, garnish with spring onion. 
 
-![Japanese Curry](media/japanese_curry.jpg)
+![Japanese Curry](../media/japanesecurry.jpg)
