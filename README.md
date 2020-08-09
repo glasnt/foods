@@ -11,3 +11,4 @@ Only delicious food recipes.
  * [Almond and chocolate chip biscuit](recipes/AlmondBiscuit.md)
  * [Orange and Poppy Seed Muffins](recipes/OrangeMuffins.md)
  * [Japanese Curry](recipes/JapaneseCurry.md)
+ * [Ham Pikelets](recipes/HamPikelets.md)
