@@ -1,0 +1,76 @@
+# ----
+# Site
+
+title: Foods
+url: "https://glasnt.com/foods"
+baseurl:
+google_analytics_key:
+newsletter_action:
+disqus_shortname:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: glasnt's foods
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: Treat Template
+  links:
+    - https://github.com/CloudCannon/treat-jekyll-template
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+paginate: 10
+paginate_path: "/:num/"
+permalink: "/:title" #pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      push_sidebar_down: true
+      print_stylesheet: true
+      comments: false
+      _options:
+        content:
+          width: 1560
+          height: 2000
+        featured_image:
+          width: 1560
+          height: 2000
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+      push_sidebar_down: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+_options:
+  author_image:
+    width: 400
+    height: 400

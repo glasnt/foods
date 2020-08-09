@@ -1,0 +1,16 @@
+<aside class="sidebar {% if page.push_sidebar_down %}push{% endif %}">
+	<div class="author">
+		<p>
+			<a href="{{ site.baseurl }}/about/">
+				<img src="{{ site.baseurl }}{{ site.data.sidebar.author_image }}" alt="author" class="author">
+			</a>
+		</p>
+		<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
+	</div>
+
+	<div class="social-icons">
+		{% if site.data.sidebar.twitter && site.data.sidebar.twitter != "" %}<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %} 
+		{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %} 
+		<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+	</div>
+</aside>
