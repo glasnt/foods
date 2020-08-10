@@ -27,9 +27,11 @@ recipe:
     1. Bake at 180°C for 15 minutes. Cookies will be golden, but still soft, and will harden on cooling
 ---
 
+These bikkets are tasty af, and freeze really well. 
+
 This recipe is adapted from the first cookbook written by the first MasterChef AU winner, [Julie Goodwin](https://www.penguin.com.au/books/our-family-table-9781742753058).
 
-As with any cookie dough, this freeze exceptionally well. I tend to make a batch and bake as needed.
+I tend to make a batch and bake as needed. They melt in the mouth and are very moreish (so only baking a few at a time is a really good idea for me!)
 
 ![Prebaking](/images/food/almond-pre.jpg)
 

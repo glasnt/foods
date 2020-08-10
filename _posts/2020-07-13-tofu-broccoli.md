@@ -36,7 +36,7 @@ recipe:
     1. Turn off the heat and add tofu. Stir to combine. 
     1. Serve on a bed of rice, and garnish with spring onion.
 ---
+I normally have a whole lot more vegetables in my stirfries, so this was an interesting receipe to try. It was darn tasty, but that's what happens when you fry things and add sugar. It was a good alternative to takeout, though!
 
 This receipe comes from [Budget Bytes](https://www.budgetbytes.com/pan-fried-sesame-tofu-with-broccoli/), adapted for a single serving. 
 
-I normally have a whole lot more vegetables in my stirfries, so this was an interesting receipe to try. It was darn tasty, but that's what happens when you fry things and add sugar. It was a good alternative to takeout, though!
