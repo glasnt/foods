@@ -2,7 +2,7 @@
 # Site
 
 title: Foods
-url: "https://glasnt.com/foods"
+url: "https://glasnt.com"
 baseurl: "/foods" 
 imageurl: "/images/food/"
 google_analytics_key:
