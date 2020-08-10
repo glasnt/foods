@@ -3,7 +3,7 @@ date: 2020-07-15
 title: 3-Ingredient Tomato Soup
 categories:
   - Meal
-featured_image: /images/food/tomato-soup.jpg
+featured_image: tomato-soup.jpg
 recipe:
   servings: 1
   prep: 5 minutes

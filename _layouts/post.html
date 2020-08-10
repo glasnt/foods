@@ -4,7 +4,7 @@ layout: default
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+		<img src="{{site.baseurl}}{{site.imageurl}}{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
 	<div class="recipe-body">

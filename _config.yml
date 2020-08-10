@@ -3,7 +3,8 @@
 
 title: Foods
 url: "https://glasnt.com/foods"
-baseurl:
+baseurl: "/foods" 
+imageurl: "/images/food/"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
@@ -11,14 +12,6 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: glasnt's foods
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Treat Template
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
 
 # -----
 # Build

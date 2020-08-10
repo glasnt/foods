@@ -3,7 +3,7 @@ date: 2020-08-09
 title: Ham & Corn Pikelets
 categories:
   - Brunch
-featured_image: /images/food/ham-pikelets.jpg
+featured_image: ham-pikelets.jpg
 recipe:
   servings: 1
   prep: 5 minutes

@@ -4,7 +4,7 @@ title: Japanese Curry
 
 categories:
   - Meal
-featured_image: /images/food/japanese-curry.jpg
+featured_image: japanese-curry.jpg
 recipe:
   servings: 1
   prep: 5 minutes

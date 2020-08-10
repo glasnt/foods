@@ -3,7 +3,7 @@ date: 2020-07-21
 title: Zucchini Fritters
 categories:
   - Brunch
-featured_image: /images/food/zucchini-fritter.jpg
+featured_image: zucchini-fritter.jpg
 recipe:
   servings: 1
   prep: 5 minutes

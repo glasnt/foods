@@ -3,7 +3,7 @@ date: 2020-07-14
 title: Almond and chocolate chip biscuit
 categories:
   - Treats
-featured_image: /images/food/almond-post.jpg
+featured_image: almond-post.jpg
 recipe:
   servings: 24
   prep: 10 minutes

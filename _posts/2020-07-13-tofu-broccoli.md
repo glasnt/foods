@@ -3,7 +3,7 @@ date: 2020-07-13
 title: Tofu & Broccoli
 categories:
   - Meal
-featured_image: /images/food/tofu-broccoli.jpg
+featured_image: tofu-broccoli.jpg
 recipe:
   servings: 1
   prep: 45 minutes

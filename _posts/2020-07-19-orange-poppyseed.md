@@ -3,7 +3,7 @@ date: 2020-07-19
 title: Orange & Poppyseed Muffins
 categories:
   - Treats
-featured_image: /images/food/orange-muffins.jpg
+featured_image: orange-muffins.jpg
 recipe:
   servings: 12, or 20 mini
   prep: 10 minutes
