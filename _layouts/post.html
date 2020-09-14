@@ -28,6 +28,7 @@ layout: default
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
+    <div class="adapted">{% if page.adapted %}<i>Adapted from <a href="{{page.adapted_url}}">{{page.adapted}}</a></i>{%endif%}</div>
 
 </article>
 

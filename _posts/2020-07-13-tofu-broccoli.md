@@ -4,6 +4,8 @@ title: Tofu & Broccoli
 categories:
   - Meal
 featured_image: tofu-broccoli.jpg
+adapted: BudgetBytes
+adapted_url: https://www.budgetbytes.com/pan-fried-sesame-tofu-with-broccoli/
 recipe:
   servings: 1
   prep: 45 minutes
@@ -38,5 +40,5 @@ recipe:
 ---
 I normally have a whole lot more vegetables in my stirfries, so this was an interesting receipe to try. It was darn tasty, but that's what happens when you fry things and add sugar. It was a good alternative to takeout, though!
 
-This receipe comes from [Budget Bytes](https://www.budgetbytes.com/pan-fried-sesame-tofu-with-broccoli/), adapted for a single serving. 
+This recipe is adapted for a single serving. 
 

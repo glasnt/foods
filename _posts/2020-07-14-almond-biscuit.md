@@ -33,8 +33,8 @@ This recipe is adapted from the first cookbook written by the first MasterChef A
 
 I tend to make a batch and bake as needed. They melt in the mouth and are very moreish (so only baking a few at a time is a really good idea for me!)
 
-![Prebaking](/images/food/almond-pre.jpg)
+![Prebaking]({{site.baseurl}}{{site.imageurl}}almond-pre.jpg)
 
 When I say "soft" I mean soft! Try transferring the entire baking sheet to a wire tray for at least 5 minutes at least before attempting to move. Otherwise they'll get all squishy!
 
-![Postbaking](/images/food/almond-biscuit.jpg)
+![Postbaking]({{site.baseurl}}{{site.imageurl}}almond-biscuit.jpg)
