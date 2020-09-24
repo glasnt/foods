@@ -11,6 +11,7 @@ recipe:
   ingredients_markdown: |-
      * 2 cups self raising flour
      * 1 cup caster sugar
+     * 1/2 tsp salt
      * 185g butter
      * 1 egg
      * 1/2 tsp vanilla extract
@@ -22,7 +23,7 @@ recipe:
     1. Cream the butter and sugar in a mixer.
     1. Add the egg and vanilla and combine.
     1. Incorporate flour and salt.
-    1. Mix in nuts, chocolate, and coconut
+    1. Mix in hazelnut or almond meal and chocolate
     1. Roll into small balls, and press fork into top to flatten and shape
     1. Bake at 180°C for 15 minutes. Cookies will be golden, but still soft, and will harden on cooling
 ---
